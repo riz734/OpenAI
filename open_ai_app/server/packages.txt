@@ -1,0 +1,1 @@
+npm install cors doteenv express nodemon openai
